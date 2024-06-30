@@ -2,9 +2,6 @@ class Solution:
     def longestPalindrome(self, s: str) -> str:
         output = ''
 
-        if len(s) < 2:
-            return s
-
         for i in range(len(s)):
             temp = s[i:]
             
