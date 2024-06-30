@@ -6,8 +6,8 @@ class Solution:
         str_x = str(x)
         temp = ''
 
-        for i in range(len(str_x)-1, -1, -1):
-            temp += str_x[i]
+        for i in reversed(str_x):
+            temp += i
 
         if x == int(temp):
             return True
