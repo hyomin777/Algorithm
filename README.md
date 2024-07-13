@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Stack
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
