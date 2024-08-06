@@ -1,5 +1,3 @@
-from typing import List
-
 class Solution:
     def __init__(self):
         self.digit_to_char = {
