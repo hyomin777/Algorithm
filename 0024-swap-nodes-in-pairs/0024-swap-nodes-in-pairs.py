@@ -8,24 +8,26 @@ class Solution:
         if not head or not head.next:
             return head
         
-        NewHead = None
-        
-        prev = None
-        curr = head
-        
-        while curr and curr.next:
-            nextPair = curr.next.next
-            temp = curr.next
+        previous = None
+        current = head
 
-            curr.next = nextPair
-            temp.next = curr
-            
-            if prev:
-                prev.next = temp
+        while current and current.next:
+            next_pair = current.next.next
+            temp = current.next
+
+            current.next = next_pair
+            temp.next = current
+
+            if previous:
+                previous.next = temp
             else:
-                NewHead = temp  
+                new_head = temp
 
-            prev = curr
-            curr = nextPair
+            previous = current
+            current = next_pair
+
+        return new_head
+
+
+
         
-        return NewHead
