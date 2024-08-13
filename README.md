@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0273-integer-to-english-words) |
 ## Recursion
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0070-climbing-stairs) |
 ## Trie
 |  |
 | ------- |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0948-sort-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
