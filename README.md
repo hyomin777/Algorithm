@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0119-pascals-triangle-ii) |
 ## Trie
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0119-pascals-triangle-ii) |
 | [0948-sort-an-array](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0948-sort-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Stack
