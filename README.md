@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0139-word-break) |
 ## String
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0058-length-of-last-word) |
+| [0139-word-break](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0139-word-break) |
 | [0273-integer-to-english-words](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0273-integer-to-english-words) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Sliding Window
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0343-integer-break) |
 | [0747-min-cost-climbing-stairs](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0747-min-cost-climbing-stairs) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0139-word-break) |
 ## Array
 |  |
 | ------- |
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0948-sort-an-array) |
@@ -192,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1013-fibonacci-number) |
 ## Breadth-First Search
 |  |
