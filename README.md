@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0343-integer-break) |
 | [1013-fibonacci-number](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0139-word-break) |
+| [0279-perfect-squares](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0343-integer-break) |
 | [0747-min-cost-climbing-stairs](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0747-min-cost-climbing-stairs) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0322-coin-change) |
 ## Combinatorics
 |  |
