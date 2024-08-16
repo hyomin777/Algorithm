@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0139-word-break) |
 | [0273-integer-to-english-words](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0273-integer-to-english-words) |
+| [0392-is-subsequence](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0392-is-subsequence) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Sliding Window
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0031-next-permutation) |
+| [0392-is-subsequence](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0392-is-subsequence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Dynamic Programming
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0343-integer-break) |
+| [0392-is-subsequence](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1086-divisor-game) |
