@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0397-integer-replacement) |
 | [0747-min-cost-climbing-stairs](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1013-fibonacci-number) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0397-integer-replacement](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0397-integer-replacement) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Sorting
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0139-word-break) |
+| [0397-integer-replacement](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1013-fibonacci-number) |
 ## Breadth-First Search
 |  |
@@ -237,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0909-stone-game](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1086-divisor-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
