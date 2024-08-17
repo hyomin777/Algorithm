@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0139-word-break) |
 | [0273-integer-to-english-words](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0392-is-subsequence) |
+| [1764-maximum-repeating-substring](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1764-maximum-repeating-substring) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Sliding Window
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1086-divisor-game) |
+| [1764-maximum-repeating-substring](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1764-maximum-repeating-substring) |
 ## Trie
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1764-maximum-repeating-substring](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1764-maximum-repeating-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
