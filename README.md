@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0139-word-break) |
 | [0273-integer-to-english-words](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0392-is-subsequence) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0120-triangle) |
