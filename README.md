@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0139-word-break) |
 | [0273-integer-to-english-words](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0392-is-subsequence) |
+| [0874-backspace-string-compare](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0874-backspace-string-compare) |
 | [1764-maximum-repeating-substring](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1764-maximum-repeating-substring) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Sliding Window
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0031-next-permutation) |
 | [0143-reorder-list](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0143-reorder-list) |
 | [0392-is-subsequence](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0392-is-subsequence) |
+| [0874-backspace-string-compare](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0874-backspace-string-compare) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Dynamic Programming
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0445-add-two-numbers-ii) |
+| [0874-backspace-string-compare](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0874-backspace-string-compare) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Greedy
 |  |
@@ -263,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0397-integer-replacement) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
