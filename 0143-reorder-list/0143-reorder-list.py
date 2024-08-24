@@ -11,12 +11,14 @@ class Solution:
         """
         queue = []
         node = head
+        
         while node:
             queue.append(node)
             node = node.next
 
         node = queue.pop(0)
         cnt = 1
+
         while queue:
             if cnt % 2 == 0:
                 val_node = queue.pop(0)
@@ -26,5 +28,4 @@ class Solution:
             node.next = val_node
             node = val_node
             cnt += 1
-
         node.next = None
