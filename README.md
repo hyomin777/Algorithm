@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0096-unique-binary-search-trees) |
 | [0273-integer-to-english-words](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0343-integer-break) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0120-triangle) |
@@ -274,4 +276,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0874-backspace-string-compare) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
