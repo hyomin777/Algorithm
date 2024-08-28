@@ -11,4 +11,4 @@ class Solution:
 
             dict[key].append(word)
 
-        return list(dict.values())
+        return dict.values()
