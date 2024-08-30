@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1086-divisor-game) |
+| [1635-number-of-good-pairs](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1635-number-of-good-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0139-word-break) |
+| [1635-number-of-good-pairs](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0948-sort-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1635-number-of-good-pairs](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1635-number-of-good-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0948-sort-an-array) |
+| [1635-number-of-good-pairs](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1635-number-of-good-pairs) |
 ## Memoization
 |  |
 | ------- |
