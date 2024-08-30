@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0139-word-break) |
+| [0782-jewels-and-stones](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0139-word-break) |
 | [0273-integer-to-english-words](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0392-is-subsequence) |
+| [0782-jewels-and-stones](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0874-backspace-string-compare) |
 | [1764-maximum-repeating-substring](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1764-maximum-repeating-substring) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
