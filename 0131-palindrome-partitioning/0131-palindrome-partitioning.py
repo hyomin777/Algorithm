@@ -7,12 +7,12 @@ class Solution:
                 result.append(current[:])
                 return
 
-            for end in range(start + 1, len(s) + 1):
-                substring = s[start:end]
+            for end in range(start, len(s)):
+                substring = s[start:end+1]
 
                 if substring == substring[::-1]:
                     current.append(substring)
-                    backtrack(end, current)
+                    backtrack(end+1, current)
                     current.pop()
         
         backtrack(0, [])
