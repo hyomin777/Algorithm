@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0100-same-tree) |
 | [0279-perfect-squares](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0322-coin-change) |
 ## Combinatorics
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0100-same-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -309,4 +311,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
