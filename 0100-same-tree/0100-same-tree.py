@@ -12,25 +12,13 @@ class Solution:
             queue = [tree]
 
             while queue:
-                current = queue.pop(0)
-
-                if current:
-                    result.append(current.val)
-
-                    if current.left:
-                        left = current.left
-                        queue.append(left)
-                    else:
-                        queue.append(None)
-
-                    if current.right:
-                        right = current.right
-                        queue.append(right)
-                    else:
-                        queue.append(None)
+                node = queue.pop(0)
+                if node:
+                    result.append(node.val)
+                    queue.append(node.left)
+                    queue.append(node.right)
                 else:
                     result.append(None)
-
             return result
 
         tree1 = bfs(p)
