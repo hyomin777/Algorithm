@@ -15,16 +15,10 @@ class Solution:
         
         while queue:
             node = queue.popleft()
-
-            left_dummy = node.left if node.left else None
-            right_dummy = node.right if node.right else None
-
-            node.left = right_dummy
-            node.right = left_dummy
+            node.left, node.right = node.right, node.left
 
             if node.left:
                 queue.append(node.left)
-
             if node.right:
                 queue.append(node.right)
 
