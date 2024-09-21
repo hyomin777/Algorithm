@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0139-word-break) |
+| [0386-lexicographical-numbers](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0386-lexicographical-numbers) |
 ## Array
 |  |
 | ------- |
@@ -353,5 +354,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0226-invert-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
