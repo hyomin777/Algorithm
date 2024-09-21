@@ -1,14 +1,15 @@
 class Solution:
     def lexicalOrder(self, n: int) -> List[int]:
-        arr = []
-
-        for i in range(1, n+1):
-            arr.append(str(i))
-
-        arr.sort()
-
         result = []
-        for i in arr:    
-            result.append(int(i))
+        curr = 1
+        
+        for _ in range(n):
+            result.append(curr)
 
+            if curr * 10 <= n:
+                curr *= 10
+            else:
+                while curr % 10 == 9 or curr + 1 > n:
+                    curr //= 10
+                curr += 1
         return result
