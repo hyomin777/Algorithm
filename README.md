@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0096-unique-binary-search-trees) |
 | [0273-integer-to-english-words](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0273-integer-to-english-words) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0139-word-break) |
@@ -310,10 +312,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0067-add-binary) |
 | [0397-integer-replacement](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0397-integer-replacement) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0874-backspace-string-compare) |
 ## Tree
 |  |
