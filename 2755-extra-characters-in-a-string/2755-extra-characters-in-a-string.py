@@ -3,14 +3,15 @@ class Solution:
         word_set = set(dictionary)
         n = len(s)
 
-        dp = [0] * (n + 1)
+        dp = [n] * (n + 1)
+        dp[0] = 0
 
-        for i in range(n-1, -1, -1):
-            dp[i] = dp[i+1] + 1
+        for i in range(n):
+            dp[i + 1] = min(dp[i + 1], dp[i] + 1)
 
-            for length in range(1, n-i+1):
-                
-                if s[i:i+length] in word_set:
-                    dp[i] = min(dp[i], dp[i + length])
-
-        return dp[0]
+            for word in word_set:
+                length = len(word)
+                if i + length <= n and s[i:i + length] == word:
+                    dp[i + length] = min(dp[i + length], dp[i])
+        
+        return dp[n]
