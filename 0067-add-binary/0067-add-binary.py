@@ -11,8 +11,8 @@ class Solution:
             digit_b = int(b[j]) if j >= 0 else 0
 
             num = digit_a + digit_b + carry
-            
-            carry = num // 2
+        
+            carry = 1 if num > 1 else 0       
             result.append(str(num % 2))
 
             i -= 1
