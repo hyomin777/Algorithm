@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1635-number-of-good-pairs) |
 | [2502-sort-the-people](https://github.com/Hyun-hyo-min/Algorithm/tree/master/2502-sort-the-people) |
+| [2755-extra-characters-in-a-string](https://github.com/Hyun-hyo-min/Algorithm/tree/master/2755-extra-characters-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-maximum-repeating-substring](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1764-maximum-repeating-substring) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2502-sort-the-people](https://github.com/Hyun-hyo-min/Algorithm/tree/master/2502-sort-the-people) |
+| [2755-extra-characters-in-a-string](https://github.com/Hyun-hyo-min/Algorithm/tree/master/2755-extra-characters-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -145,12 +147,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1086-divisor-game) |
 | [1764-maximum-repeating-substring](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1764-maximum-repeating-substring) |
+| [2755-extra-characters-in-a-string](https://github.com/Hyun-hyo-min/Algorithm/tree/master/2755-extra-characters-in-a-string) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0386-lexicographical-numbers) |
+| [2755-extra-characters-in-a-string](https://github.com/Hyun-hyo-min/Algorithm/tree/master/2755-extra-characters-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1635-number-of-good-pairs](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1635-number-of-good-pairs) |
 | [2502-sort-the-people](https://github.com/Hyun-hyo-min/Algorithm/tree/master/2502-sort-the-people) |
+| [2755-extra-characters-in-a-string](https://github.com/Hyun-hyo-min/Algorithm/tree/master/2755-extra-characters-in-a-string) |
 ## Stack
 |  |
 | ------- |
