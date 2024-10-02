@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0139-word-break) |
 | [0782-jewels-and-stones](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0782-jewels-and-stones) |
+| [1256-rank-transform-of-an-array](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1635-number-of-good-pairs) |
 | [2502-sort-the-people](https://github.com/Hyun-hyo-min/Algorithm/tree/master/2502-sort-the-people) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0948-sort-an-array) |
+| [1256-rank-transform-of-an-array](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1635-number-of-good-pairs](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1635-number-of-good-pairs) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0049-group-anagrams) |
 | [0948-sort-an-array](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0948-sort-an-array) |
+| [1256-rank-transform-of-an-array](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2502-sort-the-people](https://github.com/Hyun-hyo-min/Algorithm/tree/master/2502-sort-the-people) |
