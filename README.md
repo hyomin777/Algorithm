@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0139-word-break) |
+| [0567-permutation-in-string](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0782-jewels-and-stones) |
 | [1256-rank-transform-of-an-array](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0139-word-break) |
 | [0273-integer-to-english-words](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0874-backspace-string-compare) |
 | [1764-maximum-repeating-substring](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1764-maximum-repeating-substring) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0874-backspace-string-compare) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Hyun-hyo-min/Algorithm/tree/master/2581-divide-players-into-teams-of-equal-skill) |
