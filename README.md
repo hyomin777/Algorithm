@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0874-backspace-string-compare) |
 | [1764-maximum-repeating-substring](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1764-maximum-repeating-substring) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Hyun-hyo-min/Algorithm/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2502-sort-the-people](https://github.com/Hyun-hyo-min/Algorithm/tree/master/2502-sort-the-people) |
 | [2755-extra-characters-in-a-string](https://github.com/Hyun-hyo-min/Algorithm/tree/master/2755-extra-characters-in-a-string) |
 ## Sliding Window
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0874-backspace-string-compare) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Hyun-hyo-min/Algorithm/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Hyun-hyo-min/Algorithm/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Dynamic Programming
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0445-add-two-numbers-ii) |
 | [0874-backspace-string-compare](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0874-backspace-string-compare) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Hyun-hyo-min/Algorithm/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0397-integer-replacement](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0397-integer-replacement) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Hyun-hyo-min/Algorithm/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Sorting
 |  |
 | ------- |
