@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1013-fibonacci-number) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0874-backspace-string-compare) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1764-maximum-repeating-substring](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1764-maximum-repeating-substring) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Hyun-hyo-min/Algorithm/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0874-backspace-string-compare) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Tree
 |  |
 | ------- |
