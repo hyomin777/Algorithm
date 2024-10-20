@@ -1,12 +1,18 @@
 class Solution:
     def jump(self, nums: List[int]) -> int:
         n = len(nums)
-        dp = [float('inf')] * n 
-        dp[0] = 0 
+
+        if n <= 1:
+            return 0
+
+        dp = [10000] * (n)
+        dp[0] = 0
 
         for i in range(n):
-            max_jump = min(i + nums[i], n - 1)  # nums[i]만큼 점프, 끝 인덱스 초과 방지
-            for j in range(i + 1, max_jump + 1):
-                dp[j] = min(dp[j], dp[i] + 1)
+            jump = nums[i]
+            last = min(n, i + jump + 1)
 
-        return dp[-1]
+            for j in range(i+1, last):
+                dp[j] = min(dp[i] + 1, dp[j])
+
+        return dp[n-1]
