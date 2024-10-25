@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0874-backspace-string-compare) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1764-maximum-repeating-substring](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1764-maximum-repeating-substring) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0386-lexicographical-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2755-extra-characters-in-a-string](https://github.com/Hyun-hyo-min/Algorithm/tree/master/2755-extra-characters-in-a-string) |
 ## Array
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1256-rank-transform-of-an-array) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1635-number-of-good-pairs](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1635-number-of-good-pairs) |
@@ -387,4 +390,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Hyun-hyo-min/Algorithm/tree/master/0404-sum-of-left-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Hyun-hyo-min/Algorithm/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
