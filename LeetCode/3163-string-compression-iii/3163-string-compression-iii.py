@@ -20,10 +20,7 @@ class Solution:
                 result += f"{cnt}{prev_char}"
                 cnt = 1
             
-        if word[-1] == word[-2]:
-            result += f"{cnt}{word[-1]}"
-        else:
-            result += f"{cnt}{word[-1]}"
+        result += f"{cnt}{word[-1]}"
             
             
         return result
