@@ -1,11 +1,11 @@
-def solution(numbers, target):
-    def recursion(num, cnt):
-        if cnt == len(numbers):
-            if num == target:
-                return 1
-            else:
-                return 0
-        
-        return recursion(num + numbers[cnt], cnt + 1) + recursion(num - numbers[cnt], cnt + 1)
+def recursion(numbers, n, idx, current, target):
+    if n <= idx:
+        return 1 if current == target else 0
+    
+    num1 = recursion(numbers, n, idx+1, current+numbers[idx], target)
+    num2 = recursion(numbers, n, idx+1, current-numbers[idx], target)
+    
+    return num1 + num2
 
-    return recursion(0, 0)
+def solution(numbers, target):
+    return recursion(numbers, len(numbers), 0, 0, target)
