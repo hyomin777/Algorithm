@@ -1,21 +1,13 @@
 def solution(ineq, eq, n, m):
+    answer = True
+    
     if ineq == ">" and eq == "=":
-        if n >= m:
-            return 1
-        else:
-            return 0
+        answer = n >= m
     elif ineq == "<" and eq == "=":
-        if n <= m:
-            return 1
-        else:
-            return 0
+        answer = n <= m
     elif ineq == ">" and eq == "!":
-        if n > m:
-            return 1
-        else:
-            return 0
+        answer = n > m
     else:
-        if n < m:
-            return 1
-        else:
-            return 0
+        answer = n < m
+        
+    return 1 if answer else 0
