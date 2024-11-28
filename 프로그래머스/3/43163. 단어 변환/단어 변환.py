@@ -1,31 +1,25 @@
-from collections import deque
-
-def can_transform(word1, word2):
-    diff_count = 0
+def can_change(word, target):
+    cnt = 0
     
-    for a, b in zip(word1, word2):
-        if a != b:
-            diff_count += 1   
+    for char1, char2 in zip(word, target):
+        if char1 != char2:
+            cnt += 1
             
-    return diff_count == 1
+    return cnt == 1
 
 def solution(begin, target, words):
-    if not target in words:
-        return 0
+    queue = [(begin, 0)]
+    is_visited = set([begin])
     
-    queue = deque([(begin, 0)])
-    visited = set()
-    visited.add(begin)
-
     while queue:
-        current_word, step_count = queue.popleft()
-
-        if current_word == target:
-            return step_count
+        current, cnt = queue.pop(0)
+        
+        if current == target:
+            return cnt
         
         for word in words:
-            if word not in visited and can_transform(current_word, word):
-                visited.add(word)
-                queue.append((word, step_count + 1))
-    
+            if can_change(current, word) and word not in is_visited:
+                queue.append((word, cnt+1))
+                is_visited.add(word)
+                
     return 0
