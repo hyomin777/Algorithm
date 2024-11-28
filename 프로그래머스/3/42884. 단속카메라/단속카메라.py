@@ -1,14 +1,11 @@
 def solution(routes):
-    routes.sort()
+    routes.sort(key=lambda x:x[1])
     answer = 1
-    camera = routes[0]
-
-    for route in routes[1:]:
-        if route[0]<=camera[1]:
-            camera = [route[0], min(route[1], camera[1])]
-        else:
-            camera = route
+    camera = routes[0][1]
+    
+    for route in routes:
+        if route[0] > camera:
+            camera = route[1]
             answer += 1
-
 
     return answer
