@@ -6,7 +6,7 @@ def solution(k, m, score):
         apples = score[i:i + m]
         
         if len(apples) < m:
-            continue
+            break
         
         min_apple = min(apples)
         answer += min_apple * m
