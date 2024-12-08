@@ -4,11 +4,9 @@ def solution(numbers, direction):
     queue = deque(numbers)
     
     if direction == "right":
-        num = queue.pop()
-        queue.appendleft(num)
+        queue.appendleft(queue.pop())
         
     else:
-        num = queue.popleft()
-        queue.append(num)
+        queue.append(queue.popleft())
         
     return list(queue) 
