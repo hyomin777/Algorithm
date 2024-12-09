@@ -3,9 +3,8 @@ from itertools import permutations
 def solution(k, dungeons):
     all_dungeons = list(permutations(dungeons, len(dungeons)))
     possible = []
-    i = 0
-    
-    while i < len(all_dungeons):
+
+    for i in range(len(all_dungeons)):
         stamina = k
         count = 0
         
@@ -16,9 +15,8 @@ def solution(k, dungeons):
             if stamina >= dungeon[0]:
                 stamina = stamina - dungeon[1]
                 count += 1
-                
-        possible.append(count)
-        i += 1        
+            
+        possible.append(count)      
 
     answer = max(possible)      
     return answer
