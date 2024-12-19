@@ -1,9 +1,9 @@
 def solution(my_string):
     arr = ['a', 'e', 'i', 'o', 'u']
-    answer = ''
+    answer = []
     
     for char in my_string:
         if not char in arr:
-            answer += char
+            answer.append(char)
     
-    return answer
+    return ''.join(answer)
