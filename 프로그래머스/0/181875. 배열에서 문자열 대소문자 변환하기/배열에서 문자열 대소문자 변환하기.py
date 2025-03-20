@@ -1,6 +1,6 @@
 def solution(strArr):
     answer = []
-    for i in range(len(strArr)):
+    for i, word in enumerate(strArr):
         if i % 2 == 0:
             answer.append(strArr[i].lower())
         else:
