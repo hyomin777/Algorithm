@@ -1,6 +1,6 @@
 def solution(arr):
     answer = []
-    cnt = -1
+    cnt = 0
 
     for num in arr:
         if num >= 50 and num % 2 == 0:
@@ -18,4 +18,4 @@ def solution(arr):
             elif num < 50 and num % 2 != 0:
                 answer.append(num*2+1)
         
-    return cnt
+    return cnt-1
