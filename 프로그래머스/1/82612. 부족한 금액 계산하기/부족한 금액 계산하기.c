@@ -9,6 +9,5 @@ long long solution(int price, int money, int count) {
         answer += price * i;
     }
     
-    if(answer > money) return answer - money;
-    return 0;
+    return (answer > money) ? answer - money : 0;
 }
