@@ -3,20 +3,31 @@
 #include <stdlib.h>
 
 char* solution(int food[], size_t food_len) {
-    char* answer = (char*)malloc(20);
-    answer = '0';
-    char buffer;
-    int temp;
+    size_t buffer_size = 2;
+    int i;
+    for(i = 1; i < food_len; i++) {
+        buffer_size += (food[i] / 2) * 2;
+    }
+    char* answer = (char*)malloc(buffer_size);
+    answer[buffer_size-1] = '\0';
     
-    for(int i = 1; i < food_len; i++) {
-        temp = food[i] / 2;
-        buffer = (char)food[i] + '0';
-        for(int j = 0; j < temp; j++) {
-                answer = buffer + answer;
-                answer = answer + buffer;
+    char* left_ptr = answer;
+    char* right_ptr = answer+buffer_size-2;
+    
+    i = 0;
+    while(left_ptr != right_ptr) {
+        int j = food[i] / 2;
+        for(; j >= 1; j--) {
+            if(left_ptr == right_ptr) break;
+            *left_ptr = i + '0';
+            left_ptr++;
+            *right_ptr = i + '0';
+            right_ptr--;
         }
+        i++;
     }
     
-
+    *left_ptr = '0';
+    
     return answer;
 }
